@@ -14,7 +14,7 @@ const client = new Client({
   ],
 });
 
-client.login("MTA0ODE1ODQzNzY4MDM0OTE4NA.G0iSww.5rlRjyiqPCIdVltdj0eTihuwvBpwsUCcP4tgUE");
+client.login("no");
 
 client.once("ready", () => {
   console.log("Ready!");
