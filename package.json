@@ -1,0 +1,11 @@
+{
+  "name": "top50-minecraft-songs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "discord.js": "^14.6.0",
+    "libsodium-wrappers": "^0.7.10"
+  }
+}
